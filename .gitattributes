@@ -1,2 +1,4 @@
 *.assets.resS filter=lfs diff=lfs merge=lfs -text
 *resS filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+TSDTT.zip filter=lfs diff=lfs merge=lfs -text
