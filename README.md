@@ -1,5 +1,5 @@
 # Ten Shadows Die Ten Times
-TSDTT is a passion project of mine, and is a direct fan game of the character Mahoraga from Jujutsu Kaisen. 
+TSDTT is a passion project of mine, and is a direct fan game of the character Mahoraga from Jujutsu Kaisen. You can now play it [here](https://sparpp.itch.io/ten-shadows-die-ten-times) in your browser.
 
 <p align="center">
   <img src="assets/game.png" width = "600px"/>
@@ -70,6 +70,17 @@ Many character animations were sourced from free Mixamo uploads, with a few cust
 
 </details>
 
+<details>
+<summary>Distribution</summary>
+The game is now uploaded to itch.io (hyperlink at the top), a website which lets you play it without having to download it! :)
+
+<p align="center">
+  <img src="assets/analytics.JPG" width = "500px"/>
+</p>
+
+I was happy to see people coming across it and playing it, and got slightly addicted to regularly checking the analytics as well. The clickthrough rate is >6% whereas the average CTR on the website is ~3% which made me happy as well.
+
+</details>
 
 <details>
 <summary>Reflections</summary>
